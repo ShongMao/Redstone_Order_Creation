@@ -6,7 +6,7 @@ Our team was assigned the Order Creation API. This Github Repository includes al
 
 # Front-End Deployment
 
-**Website Link:** https://redstoneco.vercel.app/
+**Website Link:** redstoneco.vercel.app
 
 # Back-End Deployment
 This Github Repository is deployed on a fork that is linked to a Vercel deployment. Each push to the main branch will produce a new production deployment.
